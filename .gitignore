@@ -1,0 +1,39 @@
+# General
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+# Python virtual envs
+.venv/
+env/
+# Node modules
+node_modules/
+# Local env files
+.env
+.env.local
+.env.development
+.env.production
+# OS files
+.DS_Store
+# Logs
+*.log
+logs/
+# Uploads
+uploads/
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+# pytest cache
+.pytest_cache/
+# Jupyter
+.ipynb_checkpoints/
+# Docker
+docker-compose.override.yml
+# Misc
+.idea/
+.vscode/
